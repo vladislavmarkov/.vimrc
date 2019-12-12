@@ -11,6 +11,7 @@ Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-abolish'
 Plug 'kana/vim-operator-user'
 Plug 'rhysd/vim-clang-format'
+Plug 'tpope/vim-fugitive'
 
 call plug#end()
 
