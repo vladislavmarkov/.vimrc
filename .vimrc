@@ -36,6 +36,8 @@ endfunction
 set nowritebackup
 set noswapfile
 set hidden
+set number
+set relativenumber
 
 let g:clang_format#command = "clang-format-8"
 
